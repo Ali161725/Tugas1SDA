@@ -1,6 +1,6 @@
 ​public​ ​class​ ​nomor1​ { 
  ​    ​public​ ​static​ ​void​ ​main​(​String​[] ​args​) { 
- ​        ​String​[] nama​=​ {​"​N​"​,​"​"​,​"​R​"​,​"​A​"​}; 
+ ​        ​String​[] nama​=​ {​"​A​"​,​"​J"​,​"​I"​,​"​D​"​}; 
  ​        ​//​Soal no 1 
  ​        ​//​Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini: 
  ​        ​//​isEmty() 
